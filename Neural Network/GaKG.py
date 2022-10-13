@@ -37,4 +37,3 @@ print("El resultado es " + str(resultado) + " kilogramo!")
 print("Variables internas del modelo")
 print(capa.get_weights())
 
-#el programa hace 100 * 1.79 + 31.78
